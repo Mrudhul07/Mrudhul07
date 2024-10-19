@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/558e02fa-3aa0-42ee-a46e-375e830f8019)- .
 
-<!---
+<!---k
 Mrudhul07/Mrudhul07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your Ex No: 01 Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
 Aim:
